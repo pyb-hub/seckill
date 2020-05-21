@@ -1,0 +1,904 @@
+2020-05-09 14:24:43.403 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4260 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:24:43.405 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:24:43.968 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:24:44.159 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:24:44.164 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:24:44.188 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:24:44.959 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 2.022 seconds (JVM running for 3807.198)
+2020-05-09 14:25:26.750 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 14:26:07.562 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4260 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:26:07.564 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:26:07.929 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:26:08.032 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:26:08.033 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:26:08.048 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:26:08.390 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 0.891 seconds (JVM running for 3890.627)
+2020-05-09 14:26:13.499 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 14:26:55.656 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4260 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:26:55.658 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:26:56.129 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:26:56.275 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:26:56.275 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:26:56.288 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:26:56.716 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 1.292 seconds (JVM running for 3938.951)
+2020-05-09 14:26:57.660 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 14:28:07.946 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4260 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:28:07.948 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:28:08.372 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:28:08.472 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:28:08.473 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:28:08.485 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:28:08.871 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 0.975 seconds (JVM running for 4011.104)
+2020-05-09 14:28:10.741 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 14:28:31.275 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4422 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:28:31.280 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:28:32.780 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:28:33.487 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:28:33.488 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:28:33.488 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:28:33.576 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:28:34.673 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:28:34.718 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 4.483 seconds (JVM running for 5.869)
+2020-05-09 14:28:40.574 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 14:30:54.340 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4430 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:30:54.349 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:30:55.640 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:30:56.271 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:30:56.272 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:30:56.273 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:30:56.361 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:30:56.802 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 14:31:04.770 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4432 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:31:04.777 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:31:06.307 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:31:06.954 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:31:06.955 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:31:06.955 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:31:07.049 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:31:07.528 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 14:31:36.076 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4434 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:31:36.081 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:31:37.423 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:31:38.041 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:31:38.041 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:31:38.042 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:31:38.151 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:31:38.588 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 14:32:26.516 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4436 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:32:26.528 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:32:28.096 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:32:28.898 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:32:28.899 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:32:28.899 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:32:28.978 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:32:29.440 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 14:32:44.721 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4439 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:32:44.736 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:32:46.166 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:32:46.828 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:32:46.830 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:32:46.831 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:32:46.916 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:32:48.063 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:32:48.109 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 4.4 seconds (JVM running for 5.841)
+2020-05-09 14:32:55.303 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 14:35:16.511 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4450 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:35:16.530 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:35:17.992 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:35:18.631 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:35:18.633 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:35:18.633 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:35:18.721 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:35:19.857 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:35:19.910 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 4.379 seconds (JVM running for 5.982)
+2020-05-09 14:35:24.438 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 14:39:08.523 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4460 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:39:08.532 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:39:10.222 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:39:11.007 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:39:11.009 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:39:11.010 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:39:11.116 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:39:12.567 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:39:12.620 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 5.082 seconds (JVM running for 6.702)
+2020-05-09 14:39:52.413 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 14:41:58.283 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4476 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:41:58.291 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:41:59.869 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:42:00.487 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:42:00.488 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:42:00.488 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:42:00.560 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:42:01.069 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 14:42:25.957 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4478 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:42:25.987 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:42:27.336 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:42:27.951 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:42:27.952 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:42:27.953 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:42:28.036 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:42:29.109 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:42:29.160 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 4.141 seconds (JVM running for 5.531)
+2020-05-09 14:42:52.595 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4481 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:42:52.602 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:42:54.044 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:42:54.638 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:42:54.640 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:42:54.640 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:42:54.719 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:42:55.091 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 14:43:20.394 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4484 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 14:43:20.407 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 14:43:21.998 [ restartedMain ] - [ WARN  ] [ org.mybatis.spring.mapper.ClassPathMapperScanner : 44 ] - No MyBatis mapper was found in '[com.example.seckill]' package. Please check your configuration.
+2020-05-09 14:43:22.768 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:43:22.772 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 14:43:22.773 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 14:43:22.867 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 14:43:24.067 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 14:43:24.132 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 4.734 seconds (JVM running for 6.192)
+2020-05-09 14:43:29.638 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:24:30.006 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4898 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:24:30.014 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:24:33.099 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:24:33.101 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:24:33.101 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:24:33.193 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:24:34.064 [ restartedMain ] - [ WARN  ] [ org.thymeleaf.templatemode.TemplateMode : 150 ] - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-05-09 19:24:34.557 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:24:34.607 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 5.822 seconds (JVM running for 7.635)
+2020-05-09 19:27:20.562 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:27:28.299 [ http-nio-8080-exec-5 ] - [ ERROR ] [ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Optional int parameter 'id' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.] with root cause
+java.lang.IllegalStateException: Optional int parameter 'id' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.handleNullValue(AbstractNamedValueMethodArgumentResolver.java:245)
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:116)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:167)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:134)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-09 19:28:25.955 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4898 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:28:25.956 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:28:26.548 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:28:26.548 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:28:26.549 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:28:26.584 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:28:26.913 [ restartedMain ] - [ WARN  ] [ org.thymeleaf.templatemode.TemplateMode : 150 ] - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-05-09 19:28:27.046 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:28:27.051 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 1.378 seconds (JVM running for 240.071)
+2020-05-09 19:28:37.195 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:28:37.202 [ http-nio-8080-exec-1 ] - [ ERROR ] [ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Optional int parameter 'id' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.] with root cause
+java.lang.IllegalStateException: Optional int parameter 'id' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.handleNullValue(AbstractNamedValueMethodArgumentResolver.java:245)
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:116)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:167)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:134)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-09 19:30:59.452 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4918 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:30:59.466 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:31:01.461 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:31:01.462 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:31:01.463 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:31:01.584 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:31:02.370 [ restartedMain ] - [ WARN  ] [ org.thymeleaf.templatemode.TemplateMode : 150 ] - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-05-09 19:31:02.932 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:31:02.987 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 4.583 seconds (JVM running for 6.205)
+2020-05-09 19:31:08.038 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:31:08.216 [ http-nio-8080-exec-1 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 922 ] - {dataSource-1} inited
+2020-05-09 19:32:07.048 [ Thread-16 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1817 ] - {dataSource-1} closed
+2020-05-09 19:32:07.826 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4918 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:32:07.827 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:32:09.008 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:32:09.009 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:32:09.010 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:32:09.048 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:32:09.746 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:32:09.775 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 2.048 seconds (JVM running for 72.991)
+2020-05-09 19:32:16.139 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4929 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:32:16.147 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:32:19.375 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:32:19.376 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:32:19.377 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:32:19.578 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:32:21.926 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:32:22.008 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 7.464 seconds (JVM running for 9.31)
+2020-05-09 19:32:24.928 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:32:25.028 [ http-nio-8080-exec-1 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 922 ] - {dataSource-1} inited
+2020-05-09 19:32:25.778 [ http-nio-8080-exec-1 ] - [ ERROR ] [ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'seckill.user' doesn't exist
+### The error may exist in com/example/seckill/dao/UserDao.java (best guess)
+### The error may involve com.example.seckill.dao.UserDao.findById-Inline
+### The error occurred while setting parameters
+### SQL: select id from user where id = ?
+### Cause: java.sql.SQLSyntaxErrorException: Table 'seckill.user' doesn't exist
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'seckill.user' doesn't exist] with root cause
+java.sql.SQLSyntaxErrorException: Table 'seckill.user' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.execute(DruidPooledPreparedStatement.java:498)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:64)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:147)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:426)
+	at com.sun.proxy.$Proxy68.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:159)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:144)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:85)
+	at com.sun.proxy.$Proxy72.findById(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy73.findById(Unknown Source)
+	at com.example.seckill.service.impl.UserService.findById(UserService.java:16)
+	at com.example.seckill.controller.Usercontroller.getUser(Usercontroller.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-09 19:33:53.579 [ SpringContextShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1817 ] - {dataSource-1} closed
+2020-05-09 19:33:59.454 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4936 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:33:59.458 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:34:01.836 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:34:01.837 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:34:01.837 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:34:01.919 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:34:03.188 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:34:03.254 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 5.366 seconds (JVM running for 7.132)
+2020-05-09 19:34:07.057 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:34:07.156 [ http-nio-8080-exec-1 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 922 ] - {dataSource-1} inited
+2020-05-09 19:34:19.797 [ Thread-18 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1817 ] - {dataSource-1} closed
+2020-05-09 19:34:20.206 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4936 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:34:20.207 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:34:21.027 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:34:21.036 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:34:21.041 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:34:21.110 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:34:21.703 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:34:21.707 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 1.572 seconds (JVM running for 25.586)
+2020-05-09 19:34:24.394 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:35:13.977 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4936 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:35:13.978 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:35:14.938 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:35:14.939 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:35:14.939 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:35:14.956 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:35:15.596 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:35:15.608 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 1.71 seconds (JVM running for 79.484)
+2020-05-09 19:35:16.845 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:35:30.646 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4941 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:35:30.651 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:35:32.924 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:35:32.925 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:35:32.926 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:35:33.022 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:35:34.491 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:35:34.549 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 5.093 seconds (JVM running for 6.721)
+2020-05-09 19:35:52.648 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:35:52.749 [ http-nio-8080-exec-1 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 922 ] - {dataSource-1} inited
+2020-05-09 19:36:03.201 [ Thread-17 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1817 ] - {dataSource-1} closed
+2020-05-09 19:36:03.773 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4941 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:36:03.773 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:36:04.928 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:36:04.929 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:36:04.930 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:36:04.952 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:36:05.310 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:36:05.318 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 1.758 seconds (JVM running for 37.479)
+2020-05-09 19:36:08.364 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:39:10.005 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4941 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:39:10.006 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:39:10.626 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:39:10.627 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:39:10.627 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:39:10.643 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:39:10.969 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 19:39:20.382 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4962 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:39:20.397 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:39:22.715 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:39:22.716 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:39:22.717 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:39:22.814 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:39:24.258 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:39:24.319 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 5.301 seconds (JVM running for 7.287)
+2020-05-09 19:43:12.938 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4962 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:43:12.941 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:43:13.737 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:43:13.738 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:43:13.738 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:43:13.755 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:43:14.336 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:43:14.365 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 1.731 seconds (JVM running for 237.326)
+2020-05-09 19:43:56.395 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:46:36.214 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4962 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:46:36.216 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:46:36.774 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:46:36.775 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:46:36.775 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:46:36.793 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:46:37.223 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:46:37.227 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 1.224 seconds (JVM running for 440.182)
+2020-05-09 19:46:54.387 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:47:02.333 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4972 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:47:02.342 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:47:04.752 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:47:04.754 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:47:04.755 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:47:04.842 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:47:06.275 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:47:06.325 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 5.052 seconds (JVM running for 6.521)
+2020-05-09 19:47:24.099 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:51:36.487 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4989 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:51:36.493 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:51:39.432 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:51:39.433 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:51:39.433 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:51:39.509 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:51:40.986 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:51:41.054 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 5.781 seconds (JVM running for 7.581)
+2020-05-09 19:51:43.712 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:51:43.818 [ http-nio-8080-exec-1 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 922 ] - {dataSource-1} inited
+2020-05-09 19:51:54.533 [ Thread-18 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1817 ] - {dataSource-1} closed
+2020-05-09 19:51:54.908 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4989 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:51:54.909 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:51:55.795 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:51:55.796 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:51:55.797 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:51:55.826 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:51:56.389 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:51:56.393 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 1.563 seconds (JVM running for 22.919)
+2020-05-09 19:51:57.918 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:52:16.288 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4993 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:52:16.303 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:52:18.225 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:52:18.226 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:52:18.227 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:52:18.302 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:52:19.445 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:52:19.490 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 4.299 seconds (JVM running for 5.885)
+2020-05-09 19:52:46.541 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:52:46.643 [ http-nio-8080-exec-1 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 922 ] - {dataSource-1} inited
+2020-05-09 19:56:27.588 [ SpringContextShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1817 ] - {dataSource-1} closed
+2020-05-09 19:56:33.411 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 4998 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:56:33.418 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:56:35.480 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:56:35.481 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:56:35.481 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:56:35.560 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:56:36.731 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:56:36.777 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 4.883 seconds (JVM running for 6.485)
+2020-05-09 19:56:49.533 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:56:49.671 [ http-nio-8080-exec-1 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 922 ] - {dataSource-1} inited
+2020-05-09 19:57:24.434 [ SpringContextShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1817 ] - {dataSource-1} closed
+2020-05-09 19:57:29.762 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5006 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:57:29.770 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:57:31.596 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:57:31.598 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:57:31.599 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:57:31.672 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:57:32.796 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:57:32.841 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 3.994 seconds (JVM running for 5.392)
+2020-05-09 19:58:01.396 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:58:01.499 [ http-nio-8080-exec-1 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 922 ] - {dataSource-1} inited
+2020-05-09 19:58:18.741 [ SpringContextShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1817 ] - {dataSource-1} closed
+2020-05-09 19:58:22.442 [ background-preinit ] - [ DEBUG ] [ o.h.v.m.ResourceBundleMessageInterpolator : 89 ] - Loaded expression factory via original TCCL
+2020-05-09 19:58:22.814 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5012 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:58:22.816 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:58:25.777 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:58:25.779 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:58:25.780 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:58:26.046 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:58:27.564 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:58:27.623 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 5.925 seconds (JVM running for 7.657)
+2020-05-09 19:59:02.703 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5019 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 19:59:02.712 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 19:59:04.978 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:59:04.979 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 19:59:04.980 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 19:59:05.066 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 19:59:06.300 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 19:59:06.366 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 4.713 seconds (JVM running for 6.149)
+2020-05-09 19:59:10.522 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 19:59:10.643 [ http-nio-8080-exec-1 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 922 ] - {dataSource-1} inited
+2020-05-09 19:59:14.010 [ http-nio-8080-exec-3 ] - [ ERROR ] [ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Optional int parameter 'id' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.] with root cause
+java.lang.IllegalStateException: Optional int parameter 'id' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.handleNullValue(AbstractNamedValueMethodArgumentResolver.java:245)
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:116)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:167)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:134)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-09 19:59:14.103 [ http-nio-8080-exec-4 ] - [ ERROR ] [ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Optional int parameter 'id' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.] with root cause
+java.lang.IllegalStateException: Optional int parameter 'id' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.handleNullValue(AbstractNamedValueMethodArgumentResolver.java:245)
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:116)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:167)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:134)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-09 20:00:03.212 [ http-nio-8080-exec-5 ] - [ ERROR ] [ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Optional int parameter 'id' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.] with root cause
+java.lang.IllegalStateException: Optional int parameter 'id' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.handleNullValue(AbstractNamedValueMethodArgumentResolver.java:245)
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:116)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:167)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:134)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-09 20:00:07.334 [ Thread-16 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1817 ] - {dataSource-1} closed
+2020-05-09 20:00:07.702 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5019 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 20:00:07.704 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 20:00:08.336 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 20:00:08.337 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 20:00:08.338 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 20:00:08.354 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 20:00:08.953 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 20:00:08.958 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 1.333 seconds (JVM running for 68.739)
+2020-05-09 20:00:13.501 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 20:00:13.508 [ http-nio-8080-exec-1 ] - [ ERROR ] [ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Optional int parameter 'id' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.] with root cause
+java.lang.IllegalStateException: Optional int parameter 'id' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.handleNullValue(AbstractNamedValueMethodArgumentResolver.java:245)
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:116)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:167)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:134)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2020-05-09 20:00:53.114 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5019 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 20:00:53.114 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 20:00:53.631 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 20:00:53.633 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 20:00:53.636 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 20:00:53.650 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 20:00:54.112 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 20:00:54.118 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 1.075 seconds (JVM running for 113.897)
+2020-05-09 20:00:56.824 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 20:00:56.839 [ http-nio-8080-exec-1 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 922 ] - {dataSource-2} inited
+2020-05-09 20:02:50.793 [ Thread-29 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1817 ] - {dataSource-2} closed
+2020-05-09 20:02:51.302 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5019 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 20:02:51.303 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 20:02:51.716 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 20:02:51.718 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 20:02:51.718 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 20:02:51.726 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 20:02:52.206 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 20:02:52.209 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 1.144 seconds (JVM running for 231.985)
+2020-05-09 20:02:53.574 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 20:02:53.591 [ http-nio-8080-exec-1 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 922 ] - {dataSource-3} inited
+2020-05-09 20:03:10.161 [ Thread-35 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1817 ] - {dataSource-3} closed
+2020-05-09 20:03:10.412 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5019 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 20:03:10.413 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 20:03:11.096 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 20:03:11.097 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 20:03:11.101 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 20:03:11.110 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 20:03:11.562 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 20:03:11.577 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 1.237 seconds (JVM running for 251.352)
+2020-05-09 20:03:14.244 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 20:03:14.255 [ http-nio-8080-exec-1 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 922 ] - {dataSource-4} inited
+2020-05-09 22:04:48.193 [ SpringContextShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1817 ] - {dataSource-4} closed
+2020-05-09 22:04:57.835 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5155 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 22:04:57.842 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 22:05:00.092 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:05:00.095 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 22:05:00.096 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 22:05:00.183 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 22:05:00.971 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 22:05:28.928 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5157 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 22:05:28.947 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 22:05:31.320 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:05:31.321 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 22:05:31.321 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 22:05:31.404 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 22:05:31.853 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 22:07:17.784 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5159 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 22:07:17.796 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 22:07:19.799 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:07:19.800 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 22:07:19.801 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 22:07:19.883 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 22:07:20.539 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 22:13:16.789 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5185 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 22:13:16.796 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 22:13:19.410 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:13:19.412 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 22:13:19.413 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 22:13:19.556 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 22:13:20.948 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 22:16:35.787 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5187 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 22:16:35.795 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 22:16:38.514 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:16:38.516 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 22:16:38.517 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 22:16:38.660 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 22:16:39.908 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 22:18:50.208 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5191 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 22:18:50.217 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 22:18:52.236 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:18:52.237 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 22:18:52.238 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 22:18:52.311 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 22:18:53.669 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:18:53.721 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 4.421 seconds (JVM running for 5.997)
+2020-05-09 22:20:56.618 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 22:20:56.818 [ http-nio-8080-exec-1 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 922 ] - {dataSource-1} inited
+2020-05-09 22:21:04.556 [ http-nio-8080-exec-2 ] - [ INFO  ] [ io.lettuce.core.EpollProvider : 68 ] - Starting without optional epoll library
+2020-05-09 22:21:04.559 [ http-nio-8080-exec-2 ] - [ INFO  ] [ io.lettuce.core.KqueueProvider : 70 ] - Starting without optional kqueue library
+2020-05-09 22:21:38.613 [ SpringContextShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1817 ] - {dataSource-1} closed
+2020-05-09 22:21:45.240 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5259 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 22:21:45.255 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 22:21:47.536 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:21:47.537 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 22:21:47.537 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 22:21:47.673 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 22:21:48.717 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 22:21:57.226 [ background-preinit ] - [ DEBUG ] [ o.h.v.m.ResourceBundleMessageInterpolator : 89 ] - Loaded expression factory via original TCCL
+2020-05-09 22:21:57.643 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5261 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 22:21:57.645 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 22:21:59.982 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:21:59.984 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 22:21:59.985 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 22:22:00.091 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 22:22:00.886 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 22:23:31.161 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5269 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 22:23:31.175 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 22:23:33.364 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:23:33.366 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 22:23:33.366 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 22:23:33.460 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 22:23:34.244 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 22:23:51.224 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5271 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 22:23:51.260 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 22:23:54.723 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:23:54.725 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 22:23:54.726 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 22:23:54.933 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 22:23:55.917 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 22:24:09.722 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5273 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 22:24:09.742 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 22:24:12.027 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:24:12.038 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 22:24:12.040 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 22:24:12.180 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 22:24:12.947 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2020-05-09 22:25:53.526 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5276 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 22:25:53.534 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 22:25:57.534 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:25:57.535 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 22:25:57.536 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 22:25:58.007 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 22:26:01.982 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:26:02.119 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 9.815 seconds (JVM running for 11.732)
+2020-05-09 22:40:44.119 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 5292 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-09 22:40:44.126 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-09 22:40:46.752 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:40:46.755 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-09 22:40:46.756 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-09 22:40:46.862 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-09 22:40:48.508 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-09 22:40:48.561 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 5.747 seconds (JVM running for 7.833)
+2020-05-09 22:41:58.318 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-09 22:42:40.170 [ http-nio-8080-exec-5 ] - [ INFO  ] [ io.lettuce.core.EpollProvider : 68 ] - Starting without optional epoll library
+2020-05-09 22:42:40.176 [ http-nio-8080-exec-5 ] - [ INFO  ] [ io.lettuce.core.KqueueProvider : 70 ] - Starting without optional kqueue library

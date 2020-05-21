@@ -1,0 +1,13 @@
+2020-05-13 14:27:53.982 [ SpringContextShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1817 ] - {dataSource-1} closed
+2020-05-13 22:07:18.860 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 55 ] - Starting SeckillApplication on panyibiaodeMacBook-Air.local with PID 9968 (/Users/panyibiao/IdeaProjects/seckill/target/classes started by panyibiao in /Users/panyibiao/IdeaProjects/seckill)
+2020-05-13 22:07:18.870 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 651 ] - No active profile set, falling back to default profiles: default
+2020-05-13 22:07:22.190 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-13 22:07:22.191 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-05-13 22:07:22.192 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-13 22:07:22.330 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-05-13 22:07:24.498 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-05-13 22:07:24.548 [ restartedMain ] - [ INFO  ] [ com.example.seckill.SeckillApplication : 61 ] - Started SeckillApplication in 7.045 seconds (JVM running for 9.588)
+2020-05-13 22:07:47.861 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-13 22:07:48.224 [ http-nio-8080-exec-1 ] - [ INFO  ] [ io.lettuce.core.EpollProvider : 68 ] - Starting without optional epoll library
+2020-05-13 22:07:48.229 [ http-nio-8080-exec-1 ] - [ INFO  ] [ io.lettuce.core.KqueueProvider : 70 ] - Starting without optional kqueue library
+2020-05-13 22:07:49.144 [ http-nio-8080-exec-1 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 922 ] - {dataSource-1} inited

@@ -1,0 +1,117 @@
+
+server:
+  port: 8080
+
+spring:
+#配置thymeleaf3版本的模式
+  thymeleaf:
+      mode: HTML
+#fastjson序列化非空字段
+  jackson:
+    default-property-inclusion: non_null
+#设置响应为utf-8,在浏览器返回jason的时候不会乱码
+  http:
+    encoding:
+      force-response: true
+
+#配置数据库数据源:
+  datasource:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/seckill?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
+      username: root
+      password: pyb
+      #druid数据源
+      type: com.alibaba.druid.pool.DruidDataSource
+
+      maxActive: 1000
+      initialSize: 100
+      maxWait: 60000
+      minIdle: 500
+      timeBetweenEvictionRunsMillis: 60000
+      minEvictableIdleTimeMillis: 300000
+      validationQuery: select 'x'
+      testWhileIdle: true
+      testOnBorrow: false
+      testOnReturn: false
+      poolPreparedStatements: true
+      maxOpenPreparedStatements: 20
+      #配置监控的拦截器，去掉了无法监控
+      filters: stat,wall
+
+
+  redis:
+    port: 6379
+    host: 182.92.235.82
+    # Redis服务器连接密码（默认为空）
+    # password: null
+    # redis连接超时时间（毫秒）
+    timeout: 10s
+    #连接池参数（有默认，可不写）
+    jedis:
+      pool:
+        # 连接池最大连接数（使用负值表示没有限制
+        max-active: 1000
+        # 连接池中的最大空闲连接
+        max-idle: 500
+        # 连接池最大阻塞等待时间（使用负值表示没有限制）
+        max-wait: 50s
+
+  #static页面静态化配置,浏览器页面缓存
+  resources:
+    chain:
+      enabled: true
+      compressed: true #是否执行压缩
+      html-application-cache: true #是否启动html引用的缓存
+      cache: true
+    cache:
+      period: 1s #页面浏览器的配置缓存多少秒
+    static-locations: classpath:/static/ #静态资源页面的位置
+#rabbitmq
+  rabbitmq:
+    host: 182.92.235.82
+    port: 5672
+    username: root
+    password: pyb
+    virtual-host: /
+    #\u6D88\u8D39\u8005\u6570\u91CF
+    listener:
+      simple:
+       #连接的消费者数量
+       concurrency: 10
+       max-concurrency: 10
+       #\u6D88\u8D39\u8005\u6BCF\u6B21\u4ECE\u961F\u5217\u83B7\u53D6\u7684\u6D88\u606F\u6570\u91CF
+       #从队列每次取的数目：1个
+       prefetch: 1
+       #\u6D88\u8D39\u8005\u81EA\u52A8\u542F\u52A8
+       #自动启动
+       auto-startup: true
+       #\u6D88\u8D39\u5931\u8D25\uFF0C\u81EA\u52A8\u91CD\u65B0\u5165\u961F
+       default-requeue-rejected: true
+    #\u542F\u7528\u53D1\u9001\u91CD\u8BD5
+    template:
+      retry:
+       #消费者可以重试
+       enabled: true
+       #重试的时间间隔1s
+       initial-interval: 1s
+       #最多三次
+       max-attempts: 3
+       #最大重试间隔10s
+       max-interval: 10s
+       #倍数，第二次重试的时间是第一次的几倍
+       multiplier: 1.0
+
+
+#配置mybatis；1.扫描返回的实体类包的位置；2.配置map映射的dao的位置
+mybatis:
+  #配置文件方式：mapper-locations: classpath:mapping/*Mapper.xml
+  type-aliases-package: com.example.seckill.domain
+  #开启把实体类字段驼峰转为下划线，方便和数据库的字段匹配
+  configuration:
+    map-underscore-to-camel-case: true
+    #停顿一段段查询的条数，提高性能，缓解数据库的压力；
+    default-fetch-size: 100
+    #连接时间最多3s，提高性能；
+    default-statement-timeout: 3000
+
+
